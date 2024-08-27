@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 1rem;
+}
+
+body {
+    background-color: #ffb3c6;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a{
+    color: #fb6f92;
+    text-align: none;
+}
+
+a:hover { 
+    color: #ffe5ec;
+
+}
