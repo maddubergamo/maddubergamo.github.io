@@ -22,3 +22,8 @@ a:hover {
     color: #ffe5ec;
 
 }
+
+.galeria img {
+    transition: transform 0.2;
+    width: 200px;
+}
